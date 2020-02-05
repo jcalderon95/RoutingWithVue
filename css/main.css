@@ -1,0 +1,7 @@
+body { background-color: rgb(91, 88, 88); color: white;}
+
+label { display: block; margin-top: 20px;}
+
+input[typpe="submit"] {display: block; margin-top: 20px;}
+
+a { text-transform: none; color: white;}
